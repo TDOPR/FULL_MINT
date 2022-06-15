@@ -14,3 +14,4 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 # FULL-MINT
+# FULL_MINT
